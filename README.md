@@ -21,11 +21,9 @@ Subimos un archivo .war mediante la interfaz gráfica de administración de Tomc
 3. Configuramos el archivo pom.xml para permitir el despliegue directo en Tomcat.
 4. Usamos comandos de Maven como mvn tomcat7:deploy para desplegar la aplicación automáticamente.
 
-<img src="./confDisplay/img/image1.png" alt="Edición en pom.xml"></img>
+<img src="./confDisplay/img/image2.png" alt="Edición en pom.xml"></img>
 
-<img src="./confDisplay/img/image2.png" alt="Segundo Resultado"></img>
+<img src="./confDisplay/img/image3.png" alt="Segundo Resultado"></img>
 
 
-## Conclusión
-Esta práctica permitió familiarizarnos con la instalación y configuración de un servidor Tomcat, así como con diferentes métodos de despliegue de aplicaciones. Ambos métodos se verificaron con éxito.
 
